@@ -20,6 +20,9 @@ body {
 	background-image: url(demo.jpg);
 	background-position: top center;
 	background-repeat: no-repeat;
+	
+	z-index: 10;
+	display:block
 }
 -->
 </style>
